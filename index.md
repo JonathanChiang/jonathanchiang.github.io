@@ -67,3 +67,115 @@ Title: Founder/CEO
 Consultant
 By: ____________________________
 Name: [Consultant Name]
+
+
+------------------------------------------------------------
+
+### Pre-seed Valuation Page 
+
+'''
+To implement your terms—**10% equity for a $5M valuation cap**, with a **20% discount** and **1 penny stock** pricing ($1 per share equivalent)—here’s the updated **Convertible Note** draft.
+
+---
+
+### Convertible Promissory Note
+
+**THIS CONVERTIBLE PROMISSORY NOTE** (this "Note") is entered into as of [Date] by **[Your Startup Name]**, a [State/Country] corporation (the "Company"), in favor of **[Investor Name]**, an individual or entity (the "Holder").
+
+---
+
+### 1. Principal and Interest
+**1.1 Principal Amount**: The Company promises to pay the Holder the principal sum of **$500,000** (the "Principal"), representing **10% equity** in the Company at a $5,000,000 valuation cap.  
+
+**1.2 Interest Rate**: Simple interest shall accrue on the Principal at a rate of **[X]% per annum** from the date of issuance until repayment or conversion.
+
+---
+
+### 2. Maturity Date
+The outstanding Principal and accrued interest shall be due and payable on the earlier of:  
+(a) **[X years]** from the date of this Note (the "Maturity Date"); or  
+(b) A **Change of Control** (e.g., acquisition, merger, or sale of the Company).  
+
+---
+
+### 3. Conversion
+**3.1 Conversion Upon Qualified Financing**:  
+In the event of a Qualified Financing, the Principal and accrued interest shall automatically convert into shares of the Company's equity at the following terms:  
+
+(a) **Valuation Cap**: The conversion will be based on a valuation cap of **$5,000,000**.  
+
+(b) **Discount Rate**: The Holder will receive a **20% discount** on the per-share price offered to new investors during the Qualified Financing.  
+
+(c) **Share Price**: For conversion purposes, the Company shall assume a share price of **$1 per share** (or adjust for any splits or future dilutions).  
+
+(d) **Number of Shares Issued**: At conversion, the Holder will receive shares equal to **Principal ÷ Discounted Price per Share**.  
+
+**3.2 Example of Conversion**:  
+- If the Qualified Financing determines a per-share price of $1:
+  - After a **20% discount**, the Holder’s price per share is **$0.80**.  
+  - For $500,000 invested, the Holder will receive **625,000 shares** ($500,000 ÷ $0.80).  
+
+**3.3 Conversion at Maturity**:  
+If the Note is not repaid or converted by the Maturity Date, the Principal and accrued interest shall convert into shares at:  
+(a) A price based on the Valuation Cap of **$5,000,000** ($1 per share); or  
+(b) A price set by the most recent valuation event, whichever is lower.
+
+---
+
+### 4. Optional Prepayment
+The Company may not prepay this Note without the Holder’s prior written consent.  
+
+---
+
+### 5. Penny Stock Pricing Terms
+(a) The Company agrees to issue shares at **$1 per share** for the purpose of this Note.  
+(b) Any stock split, reverse split, or similar event affecting the price per share will adjust the Holder’s equity proportionally.
+
+---
+
+### 6. Representations and Warranties
+The Company represents and warrants:  
+(a) It is duly incorporated and in good standing under the laws of [State/Country].  
+(b) It has all necessary authority to execute this Note.  
+(c) This Note constitutes a valid, binding, and enforceable obligation of the Company.  
+
+---
+
+### 7. Miscellaneous
+**7.1 Governing Law**: This Note shall be governed by the laws of [State/Country].  
+**7.2 Entire Agreement**: This Note constitutes the entire agreement between the parties with respect to its subject matter.  
+**7.3 Amendments**: Any amendments to this Note must be in writing and signed by both parties.  
+
+---
+
+**IN WITNESS WHEREOF**, the parties have executed this Convertible Promissory Note as of the date first written above.
+
+**Company**  
+By: ____________________________  
+Name: [Your Name]  
+Title: Founder/CEO  
+
+**Holder**  
+By: ____________________________  
+Name: [Investor Name]  
+
+---
+
+### Key Adjustments for Your Terms:
+1. **Penny Stock**:
+   - Shares are priced at **$1 each**, reflecting a **1 penny stock** structure.
+2. **Discount**:
+   - Investors get a **20% discount** on the share price during Qualified Financing.
+3. **Equity Calculation**:
+   - Selling **10% equity** at a $5M valuation means raising $500,000 (10% of $5M).
+4. **Protect Against Dilution**:
+   - Adjustments for stock splits or future dilutions are included.
+
+Let me know if this works or if you need further customization!
+
+''''''
+
+
+
+
+
