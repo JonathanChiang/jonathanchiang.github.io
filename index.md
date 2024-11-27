@@ -73,7 +73,7 @@ Name: [Consultant Name]
 
 ### Pre-seed Valuation Page 
 
-'''
+
 To implement your terms—**10% equity for a $5M valuation cap**, with a **20% discount** and **1 penny stock** pricing ($1 per share equivalent)—here’s the updated **Convertible Note** draft.
 
 ---
@@ -173,7 +173,7 @@ Name: [Investor Name]
 
 Let me know if this works or if you need further customization!
 
-''''''
+
 
 
 
