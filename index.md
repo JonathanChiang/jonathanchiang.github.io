@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## Connect Network AI LLC Consulting Page Applications  
 
 You can use the [editor on GitHub](https://github.com/JonathanChiang/jonathanchiang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 
-### [Connect Network](connectnetwork.io)
+### [Connect Network](https.connectnetwork.io)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please send applications to cora@connectnetwork.io 
 
-```markdown
-Syntax highlighted code block
+- looking for designers with technical skills in software engineer 
+- looking for cloud deployment engineers
+- looking for scientific researchers in LLMs
+- looking for mental health practitioners in DBT
+  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+---------------------------------------------------------
 
 Pre-Seed Equity Agreement
 
